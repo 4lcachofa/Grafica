@@ -1,2 +1,2 @@
-# Grafica
+# Grafica BigO
 Graficaaaaaaa
