@@ -1,2 +1,2 @@
 # Grafica BigO
-Graficaaaaaaa
+Graficación de la complejidad BigO
